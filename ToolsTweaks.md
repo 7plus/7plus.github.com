@@ -15,3 +15,10 @@ Here are some more things you can do with 7plus:
 * Slide windows out of the screen and activate them again temporarily by moving the mouse to the border
 * Quickly change mouse volume and mute with the mouse wheel over the taskbar
 * Expand abbreviations that you type
+
+|   |   |   |
+| :-: | :-: | :-: |
+| [<img src="images/Explorer_th.png">](images/Explorer.png) | [<img src="images/ImageConverter_th.png">](images/ImageConverter.png) | [<img src="images/Rename_th.png">](images/Rename.png) |
+| | | |
+| Explorer window with tabs, custom buttons | Image converter and uploader (PrintScreen) | Mass-renaming files through Explorer (CTRL + H) |
+| and filesize display in status bar | | |

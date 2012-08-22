@@ -32,3 +32,9 @@ An event can execute a list of actions such as:
 * Take a screenshot
 * Shutdown the PC
 * Copy/Move/Delete files
+
+|   |   |   |   |
+| :-: | :-: | :-: | :-: |
+| [<img src="images/Settings_Events_th.png">](images/Settings_Events.png) | [<img src="images/Trigger_th.png">](images/Trigger.png) | [<img src="images/Condition_th.png">](images/Condition.png) | [<img src="images/Action_th.png">](images/Action.png) |
+| | | | |
+| An image of the event list | Configuring a trigger | Configuring a condition | Configuring an action |

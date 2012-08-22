@@ -5,9 +5,9 @@ tagline: ""
 ---
 {% include JB/setup %}
 
-| [Automate your tasks](EventSystem.html)      | [Act as a launcher](Accessor.html)           | [Improve your workflow](ToolsTweaks.html)      |
+| [Automate your tasks](EventSystem.html) | [Act as a launcher](Accessor.html) | [Improve your workflow](ToolsTweaks.html) |
 | -------------------------- | --------------------------  | -------------------------- |
-| by combining triggers,     | For opening files and URLs, | with many tools and tweaks |
+| by combining triggers,     | for opening files and URLs, | with many tools and tweaks |
 | conditions and actions to  | navigating to folders,      | for windows, like a clip-  |
 | events. Make a hotkey run  | doing web searches, remove  | board manager, Explorer    |
 | a program, toggle always   | programs, switching windows | Tabs and window manager    |
